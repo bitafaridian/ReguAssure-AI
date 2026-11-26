@@ -24,4 +24,16 @@ Maintaining evidence traceability and human validation.
 The initial case study focuses on quality auditing in medical software development. 
 The framework is designed as a general approach to audit processes optimization, with medical software serving as an application context.
 # Evaluation
+The proposed framework will be evaluated against conventional and partially automated approaches using metrics such as:
+- Audit execution time
+- Resource utilization
+- Risk-detection performance
+- Evidence completeness and traceability
+- Audit finding accuracy
+# Research Question
+How can an integrated AI framework combining predictive intelligence, multi-objective optimization, and agent-based execution improve audit efficiency and resource allocation while maintaining audit quality and evidence traceability?
+# Project Status
+Current phase: 
+The architecture, optimization model, implementationstartegy, and evaluation methodology are under development. The proposed framework has not yet been experimentally validated.
+# Evaluation
 
