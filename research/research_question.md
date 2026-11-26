@@ -25,14 +25,14 @@ How can integrated, uncertainty-aware AI framework combining predictive intellig
 # Sub Research Questions
 - Predictive Intelligence
   How can predictive AI estimate audit risk, task complexity, and execution effort, including the uncertainty associated with these predictions?
-- Mathematical Optimization
+- Mathematical Optimization:
   How can a multi-objective optimization model allocate limited audit resources and schedule interdependent audit tasks while satisfying mandatory audit requirements and quality constraints?
-- Agent-Based Execution
+- Agent-Based Execution:
   How can AI agents coordinate and execute selected audit activities through structured evidence retrieval, automated verification, and evidence-grounded documentation under human supervision?
-- Dynamic Adaption
+- Dynamic Adaption:
   How can execution feedback, unexpected findings, and updated risk information be incorporated into a dynamic mechanism for revising audit prioritize and re-optimizing the remaining audit plan?
-- Experimental Evaluation
+- Experimental Evaluation:
   To what extend does the integrated framework improve audit efficiency, resource utilization, risk-weighted coverage, and evidence quality compared with conventional and partially automated approaches?
   
 
-However, the extend to which these capabilities can be integrated into a dynamic 
+ 
