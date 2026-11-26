@@ -20,3 +20,8 @@ Maintaining evidence traceability and human validation.
 | AI Agent | Coordination and execution of selected tasks |
 | Audit Engine | Evidence analysis and automated checks |
 | Human Oversight | Review, validation, and approval |
+# Research Application
+The initial case study focuses on quality auditing in medical software development. 
+The framework is designed as a general approach to audit processes optimization, with medical software serving as an application context.
+# Evaluation
+
