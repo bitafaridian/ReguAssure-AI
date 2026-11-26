@@ -13,3 +13,10 @@ Prioritizing audit activities and allocating limited sources.
 Automating selected audit procedures through AI agents.
 Maintaining evidence traceability and human validation.
 # Proposed Framework
+| Component | Main Function |
+|---|---|
+| Predictive AI | Risk and effort estimation |
+| Optimization Engine | Audit planning and resource allocation |
+| AI Agent | Coordination and execution of selected tasks |
+| Audit Engine | Evidence analysis and automated checks |
+| Human Oversight | Review, validation, and approval |
